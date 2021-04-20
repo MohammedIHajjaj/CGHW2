@@ -1,0 +1,3 @@
+D:/HW2/PPUViewer2021_bin/CMakeFiles/PPUViewer.dir
+D:/HW2/PPUViewer2021_bin/CMakeFiles/ALL_BUILD.dir
+D:/HW2/PPUViewer2021_bin/CMakeFiles/ZERO_CHECK.dir
